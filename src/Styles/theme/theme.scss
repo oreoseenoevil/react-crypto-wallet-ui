@@ -1,0 +1,65 @@
+:root {
+  --black: #000;
+  --white: #fff; // this is the same as grey-0
+  --text-100: #3f1d4b;
+
+  --grey-0: #ffffff;
+  --grey-5: #f6f5f7;
+  --grey-6: #efefef;
+  --grey-7: #f3f0f5;
+  --grey-10: #f0ebf2;
+  --grey-20: #e0d8e5;
+  --grey-30: #c6bacc;
+  --grey-40: #aa9ab2;
+  --grey-50: #918299;
+  --grey-60: #786980;
+  --grey-70: #5f5166;
+  --grey-80: #463a4d;
+  --grey-90: #2e2533;
+  --grey-95: #201923;
+  --grey-100: #17121a;
+
+  --red-10: #ffeded;
+  --red-20: #ffd9d9;
+  --red-30: #ffb8b8;
+  --red-40: #ff9494;
+  --red-50: #ff7171;
+  --red-60: #ff4e4e;
+  --red-70: #cc3e3e;
+  --red-80: #992e2e;
+  --red-90: #661f1f;
+  --red-100: #320f0f;
+
+  --blue: #004de5;
+  --light-blue: #8cd4fd;
+
+  --input-color: var(--grey-100);
+  --input-background: var(--grey-5);
+  --input-shadow: inset 0px 0px 0px 1px var(--grey-20);
+  --input-hover-background: var(--white);
+  --input-hover-shadow: inset 0px 0px 0px 1px var(--grey-30);
+  --input-focus-background: var(--white);
+  --input-focus-shadow: 0px 0px 0px 2px var(--light-blue), inset 0px 0px 0px 1px var(--grey-80);
+  --input-error-color: var(--red-60);
+  --input-error-shadow: inset 0px 0px 0px 1px var(--red-60);
+  --input-placeholder-color: var(--grey-60);
+  --input-disabled-color: var(--grey-30);
+  --input-disabled-placeholder-color: var(--grey-30);
+  --input-disabled-background: var(--grey-20);
+  --input-disabled-shadow: inset 0px 0px 0px 1px var(--grey-30);
+  --input-border-color: var(--grey-40);
+  --input-hover-border-color: var(--white);
+  --input-focus-color: var(--white);
+
+  --button-color: var(--grey-80);
+  --button-background: none;
+  --button-border: none;
+  --button-border-radius: 2px;
+  --button-padding: 3px 8px;
+  --button-large-padding: 6px 16px;
+  --button-xlarge-padding: 12px 24px;
+  --button-padding-with-icon: 3px 8px;
+  --button-font-weight: 500;
+  --button-line-height: 20px;
+  --button-text-font-size: 14px;
+}
