@@ -1,4 +1,4 @@
-# React Typescript Boilerplate/Base
+# React Crypto Wallet UI (ASK)
 
 ## Prerequisites
 
@@ -11,7 +11,7 @@ Node (v14.18.1 is recommended)
 To clone repository first you have to install git
 
 ```
-git clone https://github.com/oreoseenoevil/ts-react-base.git
+git clone https://github.com/oreoseenoevil/react-crypto-wallet-ui.git
 ```
 
 ## Installation
@@ -26,6 +26,10 @@ npm install
 npm start
 ```
 
+## [Demo](https://jessiet.dev/react-crypto-wallet-ui/)
+
+You can access the project to this site: https://jessiet.dev/react-crypto-wallet-ui/
+
 ## Testing
 
 To run tests, use:
@@ -34,8 +38,12 @@ To run tests, use:
 npm run test
 ```
 
-## Languages & Libraries
+## Languages, Libraries & API
 
 - [Node](https://nodejs.org/en/)
 
 - [React](https://reactjs.org/)
+
+- [Axios](https://axios-http.com/docs/intro)
+
+- [PolygonScan](https://api.polygonscan.com/)

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-crypto-wallet-ui/static/css/main.47d4fe12.css",
+    "main.js": "/react-crypto-wallet-ui/static/js/main.4c9f6513.js",
+    "static/js/787.6d114f50.chunk.js": "/react-crypto-wallet-ui/static/js/787.6d114f50.chunk.js",
+    "index.html": "/react-crypto-wallet-ui/index.html",
+    "main.47d4fe12.css.map": "/react-crypto-wallet-ui/static/css/main.47d4fe12.css.map",
+    "main.4c9f6513.js.map": "/react-crypto-wallet-ui/static/js/main.4c9f6513.js.map",
+    "787.6d114f50.chunk.js.map": "/react-crypto-wallet-ui/static/js/787.6d114f50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47d4fe12.css",
+    "static/js/main.4c9f6513.js"
+  ]
+}
